@@ -1,0 +1,1 @@
+The main aimed of this project is to provide online voting for students Union government of Federal University dutse via internet and facilitate their voting process in order to ensure free, fair and credible. The result would be transmitted online and give easy to to the voters.
